@@ -180,6 +180,8 @@ We [recommend](dns.md#recommended-providers) a number of encrypted DNS servers b
 
 </div>
 
+[Learn more :material-arrow-right-drop-circle:](photo-management.md)
+
 ### Search Engines
 
 <div class="grid cards" markdown>
