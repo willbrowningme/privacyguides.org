@@ -37,7 +37,7 @@ Most cloud storage solutions that are aimed at photo management are not encrypte
     ![stingle logo](assets/img/photo-management/stingle.png#only-light){ align=right }
     ![stingle logo](assets/img/photo-management/stingle-dark.png#only-dark){ align=right }
 
-    **Stingle** is an end-to-end encrypted photo backup service which supports automatic backups on iOS and Android.
+    **Stingle** is an end-to-end encrypted photo backup service. It includes a gallery and camera application which can directly upload to the service. Storage starts at 1GB for free accounts.
 
     [:octicons-home-16: Homepage](https://stingle.org/){ .md-button .md-button--primary }
     [:octicons-eye-16:](https://stingle.org/privacy/){ .card-link title="Privacy Policy" }
